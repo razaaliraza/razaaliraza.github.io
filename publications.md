@@ -12,7 +12,27 @@ comments: false
 ### <a href="https://scholar.google.com/citations?user=ZgFILF0AAAAJ&hl=en" target="_blank">Google Scholar Profile link</a> ###
 
 ---
-### Selected Conference and Journal Papers
+### Conference Papers
+
+- Rashid Tahir, Ali Raza, Fareed Zaffar, Faizan Ul Ghani, Mubeen Zulfiqar<br>
+  **Using SGX-Based Virtual Clones for IoT Security** <br>
+  *2018 IEEE 17th International Symposium on Network Computing and Applications (NCA), Boston, MA, USA, Nov 2018* <br>
+  [\[PDF\]](../papers/iotSGX.pdf)[\[Bibtex\]](../papers/bib/iotSGX.txt)
+
+- Amin Mosayyebzadeh, Gerardo Ravago, Apoorve Mohan, Ali Raza, Sahil Tikale, Nabil Schear, Trammell Hudson, Jason Hennessey, Naved Ansari, Kyle Hogan, Charles Munson, Larry Rudolph, Gene Cooperman, Peter Desnoyers, Orran Krieger<br>
+  **A Secure Cloud with Minimal Provider Trust** <br>
+  *10th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 18), Boston, MA, USA, July 2018* <br>
+  [\[PDF\]](../papers/bolted.pdf)[\[Bibtex\]](../papers/bib/bolted.txt)
+
+- Rashid Tahir, Ali Raza, Faizan Ahmad, Jehangir Kazi, Fareed Zaffar, Chris Kanich, Matthew Caesar<br>
+  **It's all in the name: Why some urls are more vulnerable to typosquatting** <br>
+  *IEEE INFOCOM 2018-IEEE Conference on Computer Communications, 2018, Honolulu, Hawaii, USA, April 2018* <br>
+  [\[PDF\]](../papers/typo.pdf)[\[Bibtex\]](../papers/bib/typo.txt)
+
+- Rashid Tahir, Ali Raza, Mazhar Naqvi, Fareed Zaffar, Matthew Caesar<br>
+  **An Anomaly Detection Fabric for Clouds Based on Collaborative VM Communities** <br>
+  *Proceedings of the 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID 17), Madrid, Spain, May 2017* <br>
+  [\[PDF\]](../papers/anom-ccgrid17.pdf)[\[Bibtex\]](../papers/bib/anom-ccgrid17.txt)
 
 <!-- - Nabeel Akhtar, Ibrahim Matta, Ali Raza, Leonardo Goratti, Torsten Braun and Flavio Esposito<br>
   **Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks** <br>
