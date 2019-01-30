@@ -3,18 +3,18 @@ layout: page
 permalink: /publications/
 title: My Publications
 tags: [publications]
-modified: 8-7-2014
+modified: 1-30-2019
 comments: false
 ---
 
 --- 
 
-### @<a href="https://scholar.google.com/citations?user=EoZJQVYAAAAJ&hl=en" target="_blank">Google Scholar Profile [link]</a> ###
+### <a href="https://scholar.google.com/citations?user=ZgFILF0AAAAJ&hl=en" target="_blank">Google Scholar Profile link</a> ###
 
 ---
 ### Selected Conference and Journal Papers
 
-- Nabeel Akhtar, Ibrahim Matta, Ali Raza, Leonardo Goratti, Torsten Braun and Flavio Esposito<br>
+<!-- - Nabeel Akhtar, Ibrahim Matta, Ali Raza, Leonardo Goratti, Torsten Braun and Flavio Esposito<br>
   **Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks** <br>
   *IEEE Conference on Network Softwarization (NetSoft), 2018, Montreal, Canada., June 2018* <br>
   [\[PDF\]](../papers/NETSOFT2018.pdf)[\[Bibtex\]](../papers/bib/NETSOFT2018.txt)
@@ -118,8 +118,8 @@ comments: false
   **Vehicle Mobility, Communication Channel Modeling and Traffic Density Estimation in VANETs** <br> 
   *MSc thesis, 2013* <br> 
   [\[PDF\]](../papers/MSc_FINAL.pdf)
-
+ -->
 
 <br>  
 
-**You can also browse my <a href="https://scholar.google.com/citations?user=EoZJQVYAAAAJ&hl=en" target="_blank">Google Scholar profile [link]</a>.**
+**You can also browse my <a href="https://scholar.google.com/citations?user=ZgFILF0AAAAJ&hl=en" target="_blank">Google Scholar profile [link]</a>.**
