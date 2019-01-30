@@ -1,22 +1,22 @@
 ---
 layout: home3
-title: Me in a Nutshell
-description: "Nabeel Akhtar's website"
+title: Ali Raza
+description: "Ali Raza's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: trees.jpg
 ---
 
-I am a PhD candidate in the [Department of Computer Science](http://www.bu.edu/cs/) at [Boston University](http://www.bu.edu). I joined CS@BU in Fall’13. 
+I am a PhD candidate in the [Department of Computer Science](http://www.bu.edu/cs/) at [Boston University](http://www.bu.edu). I joined CS@BU in Fall’17. 
 <br />
-At BU, I am working with [Prof. Ibrahim Matta](http://sites.bu.edu/matta/). 
-My areas of interests are Computer Networks, Network Virtualization, Network Softwarization, Future Internet Architectures and Network Optimization.
+At BU, I am working with [Prof. Orran Krieger](https://www.bu.edu/eng/profile/orran-krieger/). 
+My areas of interest is Operating Systems, specifically turning the Linux kernel into a unikernel. 
 <br />
 <br />
 
 ## Latest News ##
 
-- **November 19, 2018:** Accepted **Publicity Chair** position for IEEE International Workshop on Computer and Networking Experimental Research using Testbeds (**CNERT**), in conjunction with **IEEE INFOCOM** 2019, Paris, France.
+<!-- - **November 19, 2018:** Accepted **Publicity Chair** position for IEEE International Workshop on Computer and Networking Experimental Research using Testbeds (**CNERT**), in conjunction with **IEEE INFOCOM** 2019, Paris, France.
 
 - **September 12, 2018:** In **Technical Program Committee (TPC)** for IEEE Conference on Network Softwarization (**NetSoft**) 2019, Paris, France.
 
@@ -43,3 +43,4 @@ My areas of interests are Computer Networks, Network Virtualization, Network Sof
 
 
 
+ -->
