@@ -14,6 +14,8 @@ comments: false
 ---
 ### Conference Papers
 
+#### 2018
+
 - Rashid Tahir, Ali Raza, Fareed Zaffar, Faizan Ul Ghani, Mubeen Zulfiqar<br>
   **Using SGX-Based Virtual Clones for IoT Security** <br>
   *2018 IEEE 17th International Symposium on Network Computing and Applications (NCA), Boston, MA, USA, Nov 2018* <br>
@@ -28,6 +30,8 @@ comments: false
   **It's all in the name: Why some urls are more vulnerable to typosquatting** <br>
   *IEEE INFOCOM 2018-IEEE Conference on Computer Communications, 2018, Honolulu, Hawaii, USA, April 2018* <br>
   [\[PDF\]](../papers/typo.pdf)[\[Bibtex\]](../papers/bib/typo.txt)
+
+#### 2017
 
 - Rashid Tahir, Ali Raza, Mazhar Naqvi, Fareed Zaffar, Matthew Caesar<br>
   **An Anomaly Detection Fabric for Clouds Based on Collaborative VM Communities** <br>
