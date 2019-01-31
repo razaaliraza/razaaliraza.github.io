@@ -17,24 +17,24 @@ comments: false
 #### 2018
 
 - **Using SGX-Based Virtual Clones for IoT Security** <br>
-  Rashid Tahir, *Ali Raza*, Fareed Zaffar, Faizan Ul Ghani, Mubeen Zulfiqar<br>
+  Rashid Tahir, **Ali Raza**, Fareed Zaffar, Faizan Ul Ghani, Mubeen Zulfiqar<br>
   *2018 IEEE 17th International Symposium on Network Computing and Applications (NCA), Boston, MA, USA, Nov 2018* <br>
   [\[PDF\]](../papers/iotSGX.pdf)[\[Bibtex\]](../papers/bib/iotSGX.txt)
 
 - **A Secure Cloud with Minimal Provider Trust** <br>
-  Amin Mosayyebzadeh, Gerardo Ravago, Apoorve Mohan, *Ali Raza*, Sahil Tikale, Nabil Schear, Trammell Hudson, Jason Hennessey, Naved Ansari, Kyle Hogan, Charles Munson, Larry Rudolph, Gene Cooperman, Peter Desnoyers, Orran Krieger<br>
+  Amin Mosayyebzadeh, Gerardo Ravago, Apoorve Mohan, **Ali Raza**, Sahil Tikale, Nabil Schear, Trammell Hudson, Jason Hennessey, Naved Ansari, Kyle Hogan, Charles Munson, Larry Rudolph, Gene Cooperman, Peter Desnoyers, Orran Krieger<br>
   *10th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 18), Boston, MA, USA, July 2018* <br>
   [\[PDF\]](../papers/bolted.pdf)[\[Bibtex\]](../papers/bib/bolted.txt)
 
 - **It's all in the name: Why some urls are more vulnerable to typosquatting** <br>
-  Rashid Tahir, *Ali Raza*, Faizan Ahmad, Jehangir Kazi, Fareed Zaffar, Chris Kanich, Matthew Caesar<br>
+  Rashid Tahir, **Ali Raza**, Faizan Ahmad, Jehangir Kazi, Fareed Zaffar, Chris Kanich, Matthew Caesar<br>
   *IEEE INFOCOM 2018-IEEE Conference on Computer Communications, 2018, Honolulu, Hawaii, USA, April 2018* <br>
   [\[PDF\]](../papers/typo.pdf)[\[Bibtex\]](../papers/bib/typo.txt)
 
 #### 2017
 
 - **An Anomaly Detection Fabric for Clouds Based on Collaborative VM Communities** <br>
-  Rashid Tahir, *Ali Raza*, Mazhar Naqvi, Fareed Zaffar, Matthew Caesar<br>
+  Rashid Tahir, **Ali Raza**, Mazhar Naqvi, Fareed Zaffar, Matthew Caesar<br>
   *Proceedings of the 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID 17), Madrid, Spain, May 2017* <br>
   [\[PDF\]](../papers/anom-ccgrid17.pdf)[\[Bibtex\]](../papers/bib/anom-ccgrid17.txt)
 
