@@ -15,21 +15,18 @@ comments: false
 
 ### Education
 
-- **PhD Candidate**, Computer Science, 2013 - present \\
+- **PhD Candidate**, Computer Science, 2017 - present \\
 Boston University, Boston, USA
-	- Advisor: [Ibrahim Matta](http://sites.bu.edu/matta/)
-	- Current Position: Research and Teaching Assistant
-	- Research Area: Network Virtualization, Virtual Functions (VF), Cloud Computing, Future Internet Architectures 
+	- Advisor: [Orran Krieger](https://www.bu.edu/eng/profile/orran-krieger/)
+	- Research Area: Operating Systems, Unikernels 
 
-- **Master of Science**, Computer Science and Engineering, 2011-2013 \\
-Koc University, Istanbul. Turkey \\
-	- Advisors: [Prof. Oznur Ozkasap](http://home.ku.edu.tr/~oozkasap/index.htm) and [Prof. Sinem Coleri Ergen](http://home.ku.edu.tr/~sergen/)
-	- Thesis: Vehicle Mobility, Communication Channel Modeling and Traffic Density Estimation in VANETs [(pdf)](papers/MSc_FINAL.pdf)
-	- Research Project: Distributed Algorithms for VANETS, Channel Modeling for VANETS 
+- **Master of Science**, Computer Science, 2014-2016 \\
+ Lahore University of Management Sciences ([LUMS](https://lums.edu.pk/)), Lahore, Pakistan  \\
+	- Advisors:  [Prof. Fareed Zaffar](https://lums.edu.pk/lums_employee/422) and [Prof. Ihsan Ayyub Qazi](http://web.lums.edu.pk/~ihsan/)
+	- Thesis: Context Based WiFi Bit-Rate Adaptation 
 
-- **Bachelor of Science**, Computer Science, 2007-2011 \\
-Lahore University of Management Science (LUMS), Lahore, Pakistan \\
-	- Advisor: Prof. Fareed Zaffer
+- **Bachelor of Science**, Electrical Engineering, 2008-2012 \\
+Lahore University of Management Science ([LUMS](https://lums.edu.pk/)), Lahore, Pakistan \\
 
 ---
 ## Work Experience
