@@ -34,5 +34,3 @@ At BU, I am working with [Prof. Orran Krieger](https://www.bu.edu/eng/profile/or
 - **Jan, 2018:** Our paper **It’s all in the name: Why some urls are more vulnerable to typosquatting** got accepted at **IEEE INFOCOM 2018** IEEE Conference on Computer Communications, 2018, Honolulu, Hawaii, USA.
 
 - **May, 2017:** Our paper **An Anomaly Detection Fabric for Clouds Based on Collaborative VM Communities** got accepted at **CCGrid 2017** Proceedings of the 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, Madrid, Spain.
-
- -->
