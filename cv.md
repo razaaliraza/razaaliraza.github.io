@@ -50,6 +50,7 @@ Lahore University of Management Science ([LUMS](https://lums.edu.pk/)), Lahore, 
 	- CS 100: Computational Problem Solving (MATLAB) - Fall 2012
 	- CS 100: Computational Problem Solving (MATLAB) - Fall 2011
 	- POL 151: Science and Civilization - Sum 2011
+	
 ---
 
 
