@@ -17,33 +17,22 @@ At BU, I am working with [Prof. Orran Krieger](https://www.bu.edu/eng/profile/or
 
 ## Latest News ##
 
-- **May , 2017:** Our paper **An Anomaly Detection Fabric for Clouds Based on Collaborative VM Communities** got accepted at **CCGrid 2017** Proceedings of the 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, Madrid, Spain.
+- **Nov 3, 2018:** I presented our paper **Using SGX-Based Virtual Clones for IoT Security** at **IEEE NCA 2018** in Boston, MA, USA.
 
-<!-- - **November 19, 2018:** Accepted **Publicity Chair** position for IEEE International Workshop on Computer and Networking Experimental Research using Testbeds (**CNERT**), in conjunction with **IEEE INFOCOM** 2019, Paris, France.
+- **Oct 30, 2018:** Gave a talk and presented a poster on **Unikernel Linux** at **2018 MOC Annual Workshop** organized by Mass Open Cloud in Boston, MA, USA.
 
-- **September 12, 2018:** In **Technical Program Committee (TPC)** for IEEE Conference on Network Softwarization (**NetSoft**) 2019, Paris, France.
+- **Sept, 2018:** Our short paper **Using SGX-Based Virtual Clones for IoT Security** got accepted at **IEEE NCA 2018** IEEE 17th International Symposium on Network Computing and Applications (NCA), Boston, MA, USA.
 
-- **June 28, 2018:** I will be presenting our paper **Virtual Function Placement and Traffic Steering over 5G Multi-Technology Networks** at IEEE Conference on Network Softwarization (**NetSoft**) 2018, Montreal, Canada.
+- **Aug 17, 2018:** Gave a talk on **Unikernel Linux** at **DevConf.us** organized by Red Hat in Boston, MA, USA. The video for the talk can be found [here](https://youtu.be/ltvXeolVnVE?t=3h57m40s).
 
-- **June 25, 2018:** I will be chairing "Design, Management and Orchestration of Edge Computing and Tactile Internet" session at **[Smart network Technologies and Edge computing for the Tactile Internet (STET 2018)](http://www.cs.slu.edu/stet2018/)**, Montreal, Canada.
+- **Jul, 2018:** Our paper **A Secure Cloud with Minimal Provider Trust** got accepted at **HotCloud 2018** 10th {USENIX} Workshop on Hot Topics in Cloud Computing, Boston, MA, USA.
 
-- **May 14-18, 2018:** I am giving advance [NFV/SDN tutorial](http://voip.netlab.uky.edu/grw2018ky/summercamp.html) on GENI testbed at **GENI Regional Workshop (GRW 2018)** and Summer Camp at Lexington, Kentucky, USA.
+- **May, 2018:** Will be starting as a Research Intern at **Red Hat** at the Boston office. I will be working on Unikernel Linux with Ulrich Drepper, Richard Jones and Prof. Orran Krieger.
 
-- **March 14, 2018:** We got ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**`FIRST PRIZE`**![#f03c15](https://placehold.it/15/f03c15/000000?text=+) for our project [**EL-SEC**](https://github.com/akhtarnabeel/ELSEC) at [**GENI Experimenter Contest 2018**](https://witestlab.poly.edu/~ffund/geni-experimenter-contest-2018/). Award worth **$6000**. We are invited to present our project demo at  **IEEE INFOCOM 2018**, Hawaii, USA.  
+- **April 19, 2018:** I presented our paper **It’s all in the name: Why some urls are more vulnerable to typosquatting** at **IEEE INFOCOM 2018** in Honolulu, Hawaii, USA.
 
-- **February 9, 2018:** Our paper **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** got accepted at **IEEE INFOCOM** International Workshop on Computer and Networking Experimental Research Using Testbeds (**CNERT**) 2018, Hawaii, USA. 
+- **Jan, 2018:** Our paper **It’s all in the name: Why some urls are more vulnerable to typosquatting** got accepted at **IEEE INFOCOM 2018** IEEE Conference on Computer Communications, 2018, Honolulu, Hawaii, USA.
 
-- **February 8, 2018:** Our **demo** paper **EL-SEC: ELastic Management of SECurity Applications on Virtualized Infrastructure** got accepted at **IEEE INFOCOM 2018**, Hawaii, USA. 
-
-- **November 3-4, 2017:** I am giving tutorial on **Managing a Virtual Network Function using SDN and Control Theory** at **GENI Regional Workshop (GRW 2017)**, University of Oregon, USA.
-
-- **October 16, 2017:** Presenting our work **Using a Control Theoretic Load Balancer for Efficient Attack Traffic Analysis and Defense on Virtualized Infrastructure**  (poster) at
- The 2nd Symposium on the COntrol of NEtwork Systems (**SCONES 2017**) , associated with IEEE Transactions on Control of Network Systems (TCNS), Boston, USA, Oct. 2017.
-
-- **October 10, 2017:** Presenting our work **On Balancing Load to Quickly Detect and Stop Attack Traffic** (poster/demo) at IEEE Network Innovators Community Event Workshop (**IEEE NICE 2017**), co-located with IEEE ICNP 2017, Toronto, Canada
-
-- **August 15, 2017:** Our journal paper **Autonomic Communications in Software-Driven Networks** got accepted at IEEE Journal on Selected Areas in Communications (**JSAC**). ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**```Impact Factor 8.08```**![#f03c15](https://placehold.it/15/f03c15/000000?text=+) 
-
-
+- **May, 2017:** Our paper **An Anomaly Detection Fabric for Clouds Based on Collaborative VM Communities** got accepted at **CCGrid 2017** Proceedings of the 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, Madrid, Spain.
 
  -->
