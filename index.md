@@ -17,6 +17,8 @@ At BU, I am working with [Prof. Orran Krieger](https://www.bu.edu/eng/profile/or
 
 ## Latest News ##
 
+**May , 2017:** Our paper **An Anomaly Detection Fabric for Clouds Based on Collaborative VM Communities** got accepted at **CCGrid 2017** Proceedings of the 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, Madrid, Spain.
+
 <!-- - **November 19, 2018:** Accepted **Publicity Chair** position for IEEE International Workshop on Computer and Networking Experimental Research using Testbeds (**CNERT**), in conjunction with **IEEE INFOCOM** 2019, Paris, France.
 
 - **September 12, 2018:** In **Technical Program Committee (TPC)** for IEEE Conference on Network Softwarization (**NetSoft**) 2019, Paris, France.
