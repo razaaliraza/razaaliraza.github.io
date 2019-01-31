@@ -40,16 +40,16 @@ Lahore University of Management Science ([LUMS](https://lums.edu.pk/)), Lahore, 
 
 ## Teaching  
 
-- Boston University 
-  	- CS 350 Fundamentals of Computing Systems - Fall 2017
+- **Boston University** 
+	- CS 350 Fundamentals of Computing Systems - Fall 2017
 
-- Lahore University of Management Science
-  	- CS 200: Introduction to Programming - Fall 2015
-  	- CS 200: Introduction to Programming - Sum 2015
-  	- CS 100: Computational Problem Solving (MATLAB) - Fall 2014
-  	- CS 100: Computational Problem Solving (MATLAB) - Fall 2012
-  	- CS 100: Computational Problem Solving (MATLAB) - Fall 2011
-  	- POL 151: Science and Civilization - Sum 2011
+- **Lahore University of Management Science**
+	- CS 200: Introduction to Programming - Fall 2015
+	- CS 200: Introduction to Programming - Sum 2015
+	- CS 100: Computational Problem Solving (MATLAB) - Fall 2014
+	- CS 100: Computational Problem Solving (MATLAB) - Fall 2012
+	- CS 100: Computational Problem Solving (MATLAB) - Fall 2011
+	- POL 151: Science and Civilization - Sum 2011
 ---
 
 
