@@ -18,15 +18,15 @@ comments: false
 - **PhD Candidate**, Computer Science, 2017 - present \\
 Boston University, Boston, USA
 	- Advisor: [Orran Krieger](https://www.bu.edu/eng/profile/orran-krieger/)
-	- Research Area: Operating Systems, Unikernels 
+	- Research Area: Operating Systems, Unikernels \\
 
 - **Master of Science**, Computer Science, 2014-2016 \\
  Lahore University of Management Sciences ([LUMS](https://lums.edu.pk/)), Lahore, Pakistan  \\
 	- Advisors:  [Prof. Fareed Zaffar](https://lums.edu.pk/lums_employee/422) and [Prof. Ihsan Ayyub Qazi](http://web.lums.edu.pk/~ihsan/)
-	- Thesis: Context Based WiFi Bit-Rate Adaptation 
+	- Thesis: Context Based WiFi Bit-Rate Adaptation \\
 
 - **Bachelor of Science**, Electrical Engineering, 2008-2012 \\
-Lahore University of Management Science ([LUMS](https://lums.edu.pk/)), Lahore, Pakistan \\
+Lahore University of Management Science ([LUMS](https://lums.edu.pk/)), Lahore, Pakistan 
 
 ---
 ## Work Experience
