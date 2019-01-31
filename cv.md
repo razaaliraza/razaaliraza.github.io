@@ -9,7 +9,7 @@ comments: false
 
 ---
 
-### [CV in PDF (last updated June. 2018)[link]](../papers/cv.pdf)
+### [CV in PDF (last updated June. 2018)[link]](../cv.pdf)
 
 ---
 
@@ -18,101 +18,38 @@ comments: false
 - **PhD Candidate**, Computer Science, 2017 - present \\
 Boston University, Boston, USA
 	- Advisor: [Orran Krieger](https://www.bu.edu/eng/profile/orran-krieger/)
-	- Research Area: Operating Systems, Unikernels  <br />
+	- Research Area: Operating Systems, Unikernels
 
 - **Master of Science**, Computer Science, 2014-2016 \\
  Lahore University of Management Sciences ([LUMS](https://lums.edu.pk/)), Lahore, Pakistan  \\
 	- Advisors:  [Prof. Fareed Zaffar](https://lums.edu.pk/lums_employee/422) and [Prof. Ihsan Ayyub Qazi](http://web.lums.edu.pk/~ihsan/)
-	- Thesis: Context Based WiFi Bit-Rate Adaptation  <br />
+	- Thesis: Context Based WiFi Bit-Rate Adaptation 
 
 - **Bachelor of Science**, Electrical Engineering, 2008-2012 \\
-Lahore University of Management Science ([LUMS](https://lums.edu.pk/)), Lahore, Pakistan  <br />
+Lahore University of Management Science ([LUMS](https://lums.edu.pk/)), Lahore, Pakistan
 
 ---
 ## Work Experience
 
-- **Research Intern: Akamai Technologies**     – Summer 2016 
-	- Project: Over-Representation Analyzer for Anomaly Detection. 
-	- Description: Developing a tool which will help Akamai Media Performance team to identify problems (anomalies) in Akamai media delivery network. 
-	- Cambridge, USA 
-
-- **Researcher Scientist: Create-Net**, Italy     – Spring 2016
-	- Project: NFV traffic management and service placement for 5G network
-	- Description: Virtual Network Function management and deployment for 4G and 5G networks in Europe.
-	- Trento, Italy
-
-- **Research Intern: Akamai Technologies**     – Summer 2015
-	- Project: Feature Selection, Anomaly Detection and Change Detection in Media Delivery.
-	- Cambridge, USA
-
-- **Research Assistant - Boston University**     – Spring 2013 to present
-	- Project: Network Function Virtualization, RINA, Optimization
-	- Boston University, Boston, USA
-
-- **Research Assistant - Koc University**     – Fall 2011 to Spring 2013
-	- Wireless Network Laboratory, Department of Computer Engineering,
-	- Project: Chanel Modeling, Realistic Mobility Modeling and distributed algorithms for density estimation in vehicular ad-hoc networks
-	- Koc University, Istanbul, Turkey
-
-- **Summer Research Assistant, Koc University**     – Summer 2010
-	- Project: Distributed Protocol for Frequent Item Set Discovery and network size estimation for P2P network
-	- Koc University Summer Research Program, Istanbul, Turkey
-
-- **IT Consultant: Sidat Hayder**     – Summer 2009
-	- IT Department
-	- Project: Worked on the second biggest database system in Pakistan, ‘‘Land Record Management Information System’’ (LRMIS)
-	- Worked as software quality assurance consultant
+- **Research Intern: Red Hat**     – Summer 2018 to present 
+	- Project: Unikernel Linux 
+	- Description: Turning Linux into a unikernel, capable of running unmodified Linux applications, and deployable on bare metal or virtualized hardware.
+	- Boston, MA, USA 
 
 ---
 
 ## Teaching  
 
-- Boston University Sep. 2013 - present 
-  Department of Computer Science
-	- CS 100 Introduction to Computing - Fall 2013
-	- CS 105 Introduction to Databases and Data Mining - Fall 2015
-	- CS 455/655 Computer Networks - Fall 2016
-	- CS 210 Computer Systems - Spring 2018
+- Boston University 
+  	- CS 350 Fundamentals of Computing Systems - Fall 2017
 
-- Koc University Aug. 2011 - July 2013 
-  Department of Computer Science and Engineering
-	- ENG 200 Probability for Engineers - Spring 2013
-	- COMP 416 Computer Networks - Fall 2012
-	- COMP 202 Data Structures and Algorithm - Spring 2012
-	- COMP 132 Advanced Programming - Fall 2011
-
- - Lahore University of Management Science Aug. 2010- Jun. 2011 
-   Department of Computer Science
-	- CS 212 Computational Problem Solving - Spring 2011
-	- CS 371/ CMPE 371 Computer Networks - Fall 2010
-
+- Lahore University of Management Science
+  	- CS 200: Introduction to Programming - Fall 2015
+  	- CS 200: Introduction to Programming - Sum 2015
+  	- CS 100: Computational Problem Solving (MATLAB) - Fall 2014
+  	- CS 100: Computational Problem Solving (MATLAB) - Fall 2012
+  	- CS 100: Computational Problem Solving (MATLAB) - Fall 2011
+  	- POL 151: Science and Civilization - Sum 2011
 ---
 
-## Other Services ##
-
-#### As Technical Program Committe member
-- IEEE Conference on Network Softwarization (NetSoft) 2019
-
-#### As Reviewer for:
-- Conference IFIP Wired/Wireless Internet Communications (IFIP WWIC) 2018
-- Journal IEEE Transactions on Intelligent Transportation Systems (ITS) 2018
-- Workshop IEEE CNERT 2018
-- Conference IEEE INFOCOM 2017 
-- Conference IEEE NFV-SDN 2017
-- Journal Future Generation Computer Systems 2017
-- Journal IEEE Communications Letters 2017
-- ITC 29 Soft5 Workshop 2017
-- Journal IEEE Intelligent Transportation Systems Transactions (ITST) 2017
-- Journal IEEE Transactions on Mobile Computing (TMC) 2017
-- Journal IEEE Communications Letters 2016
-- IEEE International Conference on Network Protocols (ICNP) 2014
-- IEEE International Conference on ITS Telecommunications (ITST) 2012
-- IEEE International Conference on Vehicular Electronics and Safety (ICVES) 2012
-
-#### As Organizer:
-- Currently organizing Networking Reading Group (NRG) at Boston University
-- **May 22-26, 2017:** Student Volunteer/Organizer for GENI Regional Workshop and Camp, Texas A&M University, College Station, TX
-
-#### Others:
-- **October 28, 2016:** GENI [Webinar](http://www.cs.unc.edu/Research/geni/geniEdu/v06-VNF-SDN-Ctl.html) on "Managing a Virtual Network Function using SDN and Control Theory"
 
