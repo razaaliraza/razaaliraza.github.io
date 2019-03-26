@@ -17,6 +17,8 @@ At BU, I am working with [Prof. Orran Krieger](https://www.bu.edu/eng/profile/or
 
 ## Latest News ##
 
+- **Mar 3, 2019:** Our paper **Unikernels: The Next Stage of Linux's Dominance** got accepted and is set to appear at **HotOS XVII**, The 17th Workshop on Hot Topics in Operating Systems, 2019 in Bertinoro, Italy.
+
 - **Nov 3, 2018:** I presented our paper **Using SGX-Based Virtual Clones for IoT Security** at **IEEE NCA 2018** in Boston, MA, USA.
 
 - **Oct 30, 2018:** Gave a talk and presented a poster on **Unikernel Linux** at **2018 MOC Annual Workshop** organized by Mass Open Cloud in Boston, MA, USA.
