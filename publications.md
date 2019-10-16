@@ -20,7 +20,7 @@ comments: false
   **Ali Raza**, Parul Sohal, James Cadden, Jonathan Appavoo, Ulrich
 Drepper, Richard Jones, Orran Krieger, Renato Mancuso, and Larry
 Woodman<br>
-  *Set to appear in Workshop on Hot Topics in Operating Systems (HotOS ’19), May 13–15, 2019, Bertinoro, Italy.* <br>
+  *Workshop on Hot Topics in Operating Systems (HotOS ’19), May 13–15, 2019, Bertinoro, Italy.* <br>
   [\[PDF\]](../papers/UKL.pdf)
 
 #### 2018
