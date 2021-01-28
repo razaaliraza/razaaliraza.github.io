@@ -16,6 +16,10 @@ At BU, I am working with [Prof. Orran Krieger](https://www.bu.edu/eng/profile/or
 <br />
 
 ## Latest News ##
+- **Aug, 2019:** Gave a talk on **Unikernel Linux** at **DevConf.us** organized by Red Hat. The video for the talk can be found [here](https://www.youtube.com/watch?v=_OV7o8yImYo).
+
+- **Sep, 2020:** Gave a talk on **Unikernel Linux** at **Red Hat Research Day** organized by Red Hat. The video for the talk can be found [here](https://www.youtube.com/watch?v=rv3EXOKK7ew).
+
 - **Aug, 2019:** Gave a talk on **Unikernel Linux** at **DevConf.us** organized by Red Hat in Boston, MA, USA. The video for the talk can be found [here](https://www.youtube.com/watch?v=PQvxq015Psw).
 
 - **May 12, 2019:** Presented our paper **Unikernels: The Next Stage of Linux's Dominance** at **HotOS XVII**, The 17th Workshop on Hot Topics in Operating Systems, 2019 in Bertinoro, Italy.
