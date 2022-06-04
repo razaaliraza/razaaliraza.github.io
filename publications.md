@@ -12,7 +12,14 @@ comments: false
 ### <a href="https://scholar.google.com/citations?user=ZgFILF0AAAAJ&hl=en" target="_blank">Google Scholar Profile link</a> ###
 
 ---
-### Conference Papers
+### Papers
+
+#### 2022
+
+- **Integrating Unikernel Optimizations in a General Purpose OS** <br>
+  **Ali Raza**, Thomas Unger, Matthew Boyd, Eric Munson, Parul Sohal, Ulrich Drepper, Richard Jones, Daniel Bristot de Oliveira, Larry Woodman, Renato Mancuso, Jonathan Appavoo, Orran Krieger <br>
+  *Arxiv submission*
+  [\[PDF\]](https://arxiv.org/pdf/2206.00789.pdf)
 
 #### 2019
 
