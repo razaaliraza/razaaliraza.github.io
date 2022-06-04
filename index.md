@@ -15,6 +15,32 @@ At BU, I am working with [Prof. Orran Krieger](https://www.bu.edu/eng/profile/or
 <br />
 <br />
 
+## Research Interests: Unikernel Linux (UKL) ##
+Performance-sensitive applications require specialized behavior from the OS,
+e.g., custom scheduler policies, high-speed I/O, direct access to hardware, etc.
+Unikernels or library-OSes provide these benefits, but still, their adoption is
+low in production environments. This is because they can't always match the
+battle-tested code of general-purpose OSes, their development community, the
+ecosystem of management, debugging, and profiling tools, and their wide hardware
+support; all of which are required by modern applications. In my research, I
+explore if it's possible to preserve all the properties of general-purpose OSes
+while getting the performance advantages of unikernels. Can we integrate
+unikernel techniques into a general-purpose OS? What would the performance
+benefits be, if any? Can unmodified applications exploit these advantages? Can
+all of this be done without massive code changes and redesigning the
+general-purpose OS so the community can adopt the idea and take it further? To
+answer these questions, we have built a prototype that demonstrates both a path
+to integrate unikernel techniques in Linux (e.g., kernel-mode execution for
+applications, highly optimized transitions between kernel and application code,
+run-to-completion mode, shared stacks between application and kernel, link-time
+optimization of kernel and application code, etc.) and that such techniques can
+result in significant performance advantages. Unmodified applications, with a
+re-compilation and link to a modified Linux kernel, show performance gains
+(e.g., for Redis throughput by 12% & 99th tail latency by 11%). Further, expert
+developers can modify the application to better exploit the new optimizations
+for more significant gains (e.g., for Redis, throughput by 25% and 99th tail
+latency by 22%). The changes to the Linux kernel are modes (1250 LoC).
+
 ## Latest News ##
 - **Jun, 2022:** Full length Unikernel Linux (UKL) paper available on arxiv [here](https://arxiv.org/pdf/2206.00789.pdf)
 
