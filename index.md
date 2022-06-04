@@ -16,7 +16,7 @@ At BU, I am working with [Prof. Orran Krieger](https://www.bu.edu/eng/profile/or
 <br />
 
 ## Latest News ##
-- **Jun, 2022** Full length Unikernel Linux (UKL) paper available on arxiv [here](https://arxiv.org/pdf/2206.00789.pdf)
+- **Jun, 2022:** Full length Unikernel Linux (UKL) paper available on arxiv [here](https://arxiv.org/pdf/2206.00789.pdf)
 
 - **Sep, 2021:** Gave a talk on **Unikernel Linux** at **DevConf.us** organized by Red Hat. The video for the talk can be found [here](https://www.youtube.com/watch?v=Hu268xq9gMk).
 
