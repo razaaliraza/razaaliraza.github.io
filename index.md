@@ -39,7 +39,7 @@ re-compilation and link to a modified Linux kernel, show performance gains
 (e.g., for Redis throughput by 12% & 99th tail latency by 11%). Further, expert
 developers can modify the application to better exploit the new optimizations
 for more significant gains (e.g., for Redis, throughput by 25% and 99th tail
-latency by 22%). The changes to the Linux kernel are modes (1250 LoC).
+latency by 22%). The changes to the Linux kernel are modest (1250 LoC).
 
 ## Latest News ##
 - **Jun, 2022:** Full length Unikernel Linux (UKL) paper available on arxiv [here](https://arxiv.org/pdf/2206.00789.pdf) and code can be found [here] (https://github.com/unikernelLinux/ukl).
