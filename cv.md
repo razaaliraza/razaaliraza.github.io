@@ -9,7 +9,7 @@ comments: false
 
 ---
 
-### [CV in PDF (last updated Jan. 2021)](../AliRazaCV.pdf)
+### [CV (last updated July 2022)](../AliRazaCV.pdf)
 
 ---
 
