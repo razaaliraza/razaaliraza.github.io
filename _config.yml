@@ -10,7 +10,7 @@ disqus_shortname: ali raza
 owner:
   name:           Ali Raza
   avatar:         aliraza.jpg
-  bio:            Can be found talking about the kernel, politics, soccer, food and everything in between.
+#  bio:            Can be found talking about the kernel, politics, soccer, food and everything in between.
   email:          aliraza@bu.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: alirazaih
@@ -26,10 +26,10 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Biography
-    url: /cv/
-  - title: Publications
-    url: /publications/
+#  - title: Biography
+#    url: /cv/
+#  - title: Publications
+#    url: /publications/
 #  - title: Research
 #    url: /research/
 

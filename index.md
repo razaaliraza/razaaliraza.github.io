@@ -7,14 +7,15 @@ image:
   feature: trees.jpg
 ---
 
-I am a PhD candidate in the [Department of Computer Science](http://www.bu.edu/cs/) at [Boston University](http://www.bu.edu). I joined CS@BU in Fall’17. 
+May 2023: I completed my PhD in [Computer Science](http://www.bu.edu/cs/) from [Boston University](http://www.bu.edu).
 <br />
 <br />
 
-At BU, I am working with [Prof. Orran Krieger](https://www.bu.edu/eng/profile/orran-krieger/). My area of interest is Operating Systems, specifically turning the Linux kernel into a unikernel. 
+At BU, I worked with [Prof. Orran Krieger](https://www.bu.edu/eng/profile/orran-krieger/). My area of interest is Operating Systems, specifically unikernels. 
 <br />
 <br />
 
+<!---
 ## Research Interests: Unikernel Linux (UKL) ##
 Performance-sensitive applications require specialized behavior from the OS,
 e.g., custom scheduler policies, high-speed I/O, direct access to hardware, etc.
@@ -76,3 +77,4 @@ latency by 22%). The changes to the Linux kernel are modest (1250 LoC).
 
 - **May, 2017:** Our paper **An Anomaly Detection Fabric for Clouds Based on Collaborative VM Communities** got accepted at **CCGrid 2017** Proceedings of the 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing, Madrid, Spain.
 
+--->
