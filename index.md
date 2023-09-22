@@ -7,6 +7,8 @@ image:
   feature: trees.jpg
 ---
 
+I am currently in the System and Architecture Lab (SAL) at Samsung Advanced Institute of Technology (SAIT), working on OS and HPC research. I can be reached at ali dot raza at samsung dot com.
+
 May 2023: I completed my PhD in [Computer Science](http://www.bu.edu/cs/) from [Boston University](http://www.bu.edu).
 <br />
 <br />
