@@ -7,7 +7,7 @@ image:
   feature: trees.jpg
 ---
 
-I am currently in the System and Architecture Lab (SAL) at Samsung Advanced Institute of Technology (SAIT), working on OS and HPC research. I can be reached at ali dot raza at samsung dot com.
+I am currently in the System and Architecture Lab (SAL) at Samsung Advanced Institute of Technology (SAIT), working on OS and HPC research. I can still be reached at aliraza at bu dot edu.
 <br />
 <br />
 
