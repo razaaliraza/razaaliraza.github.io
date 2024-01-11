@@ -19,6 +19,9 @@ At BU, I worked with [Prof. Orran Krieger](https://www.bu.edu/eng/profile/orran-
 <br />
 <br />
 
+My CV can be found [here](AliRazaCV.pdf).
+
+
 <!---
 ## Research Interests: Unikernel Linux (UKL) ##
 Performance-sensitive applications require specialized behavior from the OS,
