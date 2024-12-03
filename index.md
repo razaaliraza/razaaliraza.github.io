@@ -19,7 +19,7 @@ At BU, I worked with [Prof. Orran Krieger](https://www.bu.edu/eng/profile/orran-
 <br />
 <br />
 
-My CV can be found [here](AliRazaCV.pdf).
+My detailed CV can be found [here](Ali_Raza_CV.pdf) and my short resume can be found [here](AliRazaResume.pdf).
 
 
 <!---
